@@ -1,0 +1,12 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="200" cy="200" r="198" fill="#0B0B0B"/>
+  <path d="M 200.00,200.00 L 160.90,133.30 L 200.00,27.50 L 221.85,167.80 Z" fill="#F5F3EE" stroke="#0B0B0B" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M 200.00,200.00 L 219.52,125.19 L 321.98,78.02 L 238.22,192.68 Z" fill="#DAD6CB" stroke="#0B0B0B" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M 200.00,200.00 L 266.70,160.90 L 372.50,200.00 L 232.20,221.85 Z" fill="#F5F3EE" stroke="#0B0B0B" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M 200.00,200.00 L 274.81,219.52 L 321.98,321.98 L 207.32,238.22 Z" fill="#DAD6CB" stroke="#0B0B0B" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M 200.00,200.00 L 239.10,266.70 L 200.00,372.50 L 178.15,232.20 Z" fill="#F5F3EE" stroke="#0B0B0B" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M 200.00,200.00 L 180.48,274.81 L 78.02,321.98 L 161.78,207.32 Z" fill="#DAD6CB" stroke="#0B0B0B" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M 200.00,200.00 L 133.30,239.10 L 27.50,200.00 L 167.80,178.15 Z" fill="#F5F3EE" stroke="#0B0B0B" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M 200.00,200.00 L 125.19,180.48 L 78.02,78.02 L 192.68,161.78 Z" fill="#DAD6CB" stroke="#0B0B0B" stroke-width="2.2" stroke-linejoin="round"/>
+  <circle cx="200" cy="200" r="10.35" fill="#F5F3EE" stroke="#0B0B0B" stroke-width="1.2"/>
+</svg>
